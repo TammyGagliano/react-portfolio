@@ -1,11 +1,6 @@
 # react-portfolio
 
 My personal portfolio built using React and Bootstrap. I'm continually adding projects, modifying content, and updating the look and functionality.
-
-Please check out my work at www.tammygagliano.com
-
-## Description 
-
 ## User Story
 
 ```md
@@ -13,7 +8,6 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
-
 ## Acceptance Criteria
 
 ```md
@@ -51,3 +45,8 @@ Then for the single page, smooth scrolling, install react-scroll. To deploy to G
 
 npm install react-scroll gh-pages
 You can also fork and clone this repo to use as a template and then just run npm install
+
+## Author
+Tammy Gagliano
+* https://github.com/TammyGagliano/react-portfolio
+* https://tammygagliano.github.io/react-portfolio/

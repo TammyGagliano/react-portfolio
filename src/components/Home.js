@@ -4,7 +4,6 @@ import "./style.css";
 const Home = () => {
     return (
         <div className="home">
-            
             <div className="person">
                 <img src={`${process.env.PUBLIC_URL}/profile.png`} alt="Tammy Gagliano"/>
             </div>
@@ -17,7 +16,6 @@ const Home = () => {
                     <button>Learn More</button>
                 </Link>
             </div>
-            
         </div>
     );
 };
